@@ -1,0 +1,17 @@
+C:\Users\erkut\OneDrive\Masaüstü\HC_Restaurant\HC_Restaurant\HC.Infrastructure\obj\Debug\net6.0\HC.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\erkut\OneDrive\Masaüstü\HC_Restaurant\HC_Restaurant\HC.Infrastructure\obj\Debug\net6.0\HC.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erkut\OneDrive\Masaüstü\HC_Restaurant\HC_Restaurant\HC.Infrastructure\obj\Debug\net6.0\HC.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\erkut\OneDrive\Masaüstü\HC_Restaurant\HC_Restaurant\HC.Infrastructure\obj\Debug\net6.0\HC.Infrastructure.AssemblyInfo.cs
+C:\Users\erkut\OneDrive\Masaüstü\HC_Restaurant\HC_Restaurant\HC.Infrastructure\obj\Debug\net6.0\HC.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\erkut\OneDrive\Masaüstü\HC_Restaurant\HC_Restaurant\HC.Infrastructure\bin\Debug\net6.0\HC.Infrastructure.deps.json
+C:\Users\erkut\OneDrive\Masaüstü\HC_Restaurant\HC_Restaurant\HC.Infrastructure\bin\Debug\net6.0\HC.Infrastructure.dll
+C:\Users\erkut\OneDrive\Masaüstü\HC_Restaurant\HC_Restaurant\HC.Infrastructure\bin\Debug\net6.0\HC.Infrastructure.pdb
+C:\Users\erkut\OneDrive\Masaüstü\HC_Restaurant\HC_Restaurant\HC.Infrastructure\bin\Debug\net6.0\HC.Domain.dll
+C:\Users\erkut\OneDrive\Masaüstü\HC_Restaurant\HC_Restaurant\HC.Infrastructure\bin\Debug\net6.0\HC.Domain.pdb
+C:\Users\erkut\OneDrive\Masaüstü\HC_Restaurant\HC_Restaurant\HC.Infrastructure\obj\Debug\net6.0\HC.Infrastructure.csproj.CopyComplete
+C:\Users\erkut\OneDrive\Masaüstü\HC_Restaurant\HC_Restaurant\HC.Infrastructure\obj\Debug\net6.0\HC.Infrastructure.dll
+C:\Users\erkut\OneDrive\Masaüstü\HC_Restaurant\HC_Restaurant\HC.Infrastructure\obj\Debug\net6.0\refint\HC.Infrastructure.dll
+C:\Users\erkut\OneDrive\Masaüstü\HC_Restaurant\HC_Restaurant\HC.Infrastructure\obj\Debug\net6.0\HC.Infrastructure.pdb
+C:\Users\erkut\OneDrive\Masaüstü\HC_Restaurant\HC_Restaurant\HC.Infrastructure\obj\Debug\net6.0\ref\HC.Infrastructure.dll
+C:\Users\erkut\OneDrive\Masaüstü\HC_Restaurant\HC_Restaurant\HC.Infrastructure\bin\Debug\net6.0\HC.Infrastructure.runtimeconfig.json
+C:\Users\erkut\OneDrive\Masaüstü\HC_Restaurant\HC_Restaurant\HC.Infrastructure\obj\Debug\net6.0\HC.Infrastructure.genruntimeconfig.cache

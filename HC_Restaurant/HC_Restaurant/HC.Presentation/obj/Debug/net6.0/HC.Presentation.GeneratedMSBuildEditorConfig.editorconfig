@@ -1,0 +1,189 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HC.Presentation
+build_property.RootNamespace = HC.Presentation
+build_property.ProjectDir = C:\Users\erkut\OneDrive\Masaüstü\HC_Restaurant\HC_Restaurant\HC.Presentation\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\erkut\OneDrive\Masaüstü\HC_Restaurant\HC_Restaurant\HC.Presentation
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/erkut/OneDrive/Masaüstü/HC_Restaurant/HC_Restaurant/HC.Presentation/Areas/Admin/Views/Category/AddCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcQWRkQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erkut/OneDrive/Masaüstü/HC_Restaurant/HC_Restaurant/HC.Presentation/Areas/Admin/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erkut/OneDrive/Masaüstü/HC_Restaurant/HC_Restaurant/HC.Presentation/Areas/Admin/Views/Category/UpdateCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcVXBkYXRlQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erkut/OneDrive/Masaüstü/HC_Restaurant/HC_Restaurant/HC.Presentation/Areas/Admin/Views/Department/AddDepartment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGVwYXJ0bWVudFxBZGREZXBhcnRtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erkut/OneDrive/Masaüstü/HC_Restaurant/HC_Restaurant/HC.Presentation/Areas/Admin/Views/Department/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGVwYXJ0bWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erkut/OneDrive/Masaüstü/HC_Restaurant/HC_Restaurant/HC.Presentation/Areas/Admin/Views/Department/UpdateDepartment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGVwYXJ0bWVudFxVcGRhdGVEZXBhcnRtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erkut/OneDrive/Masaüstü/HC_Restaurant/HC_Restaurant/HC.Presentation/Areas/Admin/Views/Employee/AddEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRW1wbG95ZWVcQWRkRW1wbG95ZWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erkut/OneDrive/Masaüstü/HC_Restaurant/HC_Restaurant/HC.Presentation/Areas/Admin/Views/Employee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRW1wbG95ZWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erkut/OneDrive/Masaüstü/HC_Restaurant/HC_Restaurant/HC.Presentation/Areas/Admin/Views/Employee/UpdateEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRW1wbG95ZWVcVXBkYXRlRW1wbG95ZWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erkut/OneDrive/Masaüstü/HC_Restaurant/HC_Restaurant/HC.Presentation/Areas/Admin/Views/Home/AdminIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxBZG1pbkluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erkut/OneDrive/Masaüstü/HC_Restaurant/HC_Restaurant/HC.Presentation/Areas/Admin/Views/Order/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erkut/OneDrive/Masaüstü/HC_Restaurant/HC_Restaurant/HC.Presentation/Areas/Admin/Views/Product/AddProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxBZGRQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erkut/OneDrive/Masaüstü/HC_Restaurant/HC_Restaurant/HC.Presentation/Areas/Admin/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erkut/OneDrive/Masaüstü/HC_Restaurant/HC_Restaurant/HC.Presentation/Areas/Admin/Views/Product/UpdateProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxVcGRhdGVQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erkut/OneDrive/Masaüstü/HC_Restaurant/HC_Restaurant/HC.Presentation/Areas/Admin/Views/Role/AssignedRoleToUsers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZVxBc3NpZ25lZFJvbGVUb1VzZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erkut/OneDrive/Masaüstü/HC_Restaurant/HC_Restaurant/HC.Presentation/Areas/Admin/Views/Role/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erkut/OneDrive/Masaüstü/HC_Restaurant/HC_Restaurant/HC.Presentation/Areas/Admin/Views/Role/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erkut/OneDrive/Masaüstü/HC_Restaurant/HC_Restaurant/HC.Presentation/Areas/Admin/Views/Role/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZVxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erkut/OneDrive/Masaüstü/HC_Restaurant/HC_Restaurant/HC.Presentation/Areas/Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erkut/OneDrive/Masaüstü/HC_Restaurant/HC_Restaurant/HC.Presentation/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erkut/OneDrive/Masaüstü/HC_Restaurant/HC_Restaurant/HC.Presentation/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erkut/OneDrive/Masaüstü/HC_Restaurant/HC_Restaurant/HC.Presentation/Areas/Purchase/Views/Home/BuyProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUHVyY2hhc2VcVmlld3NcSG9tZVxCdXlQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erkut/OneDrive/Masaüstü/HC_Restaurant/HC_Restaurant/HC.Presentation/Areas/Purchase/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUHVyY2hhc2VcVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erkut/OneDrive/Masaüstü/HC_Restaurant/HC_Restaurant/HC.Presentation/Areas/Purchase/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUHVyY2hhc2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erkut/OneDrive/Masaüstü/HC_Restaurant/HC_Restaurant/HC.Presentation/Areas/Waiter/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV2FpdGVyXFZpZXdzXENhcnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erkut/OneDrive/Masaüstü/HC_Restaurant/HC_Restaurant/HC.Presentation/Areas/Waiter/Views/Home/CreateOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV2FpdGVyXFZpZXdzXEhvbWVcQ3JlYXRlT3JkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erkut/OneDrive/Masaüstü/HC_Restaurant/HC_Restaurant/HC.Presentation/Areas/Waiter/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV2FpdGVyXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erkut/OneDrive/Masaüstü/HC_Restaurant/HC_Restaurant/HC.Presentation/Areas/Waiter/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV2FpdGVyXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erkut/OneDrive/Masaüstü/HC_Restaurant/HC_Restaurant/HC.Presentation/Views/Account/EditProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxFZGl0UHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erkut/OneDrive/Masaüstü/HC_Restaurant/HC_Restaurant/HC.Presentation/Views/Account/Pending.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxQZW5kaW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erkut/OneDrive/Masaüstü/HC_Restaurant/HC_Restaurant/HC.Presentation/Views/Account/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erkut/OneDrive/Masaüstü/HC_Restaurant/HC_Restaurant/HC.Presentation/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erkut/OneDrive/Masaüstü/HC_Restaurant/HC_Restaurant/HC.Presentation/Views/Account/SignIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxTaWduSW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erkut/OneDrive/Masaüstü/HC_Restaurant/HC_Restaurant/HC.Presentation/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erkut/OneDrive/Masaüstü/HC_Restaurant/HC_Restaurant/HC.Presentation/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erkut/OneDrive/Masaüstü/HC_Restaurant/HC_Restaurant/HC.Presentation/Views/Shared/Components/Profile/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUHJvZmlsZVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erkut/OneDrive/Masaüstü/HC_Restaurant/HC_Restaurant/HC.Presentation/Views/Shared/Components/SampleProducts/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2FtcGxlUHJvZHVjdHNcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erkut/OneDrive/Masaüstü/HC_Restaurant/HC_Restaurant/HC.Presentation/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erkut/OneDrive/Masaüstü/HC_Restaurant/HC_Restaurant/HC.Presentation/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erkut/OneDrive/Masaüstü/HC_Restaurant/HC_Restaurant/HC.Presentation/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erkut/OneDrive/Masaüstü/HC_Restaurant/HC_Restaurant/HC.Presentation/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erkut/OneDrive/Masaüstü/HC_Restaurant/HC_Restaurant/HC.Presentation/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erkut/OneDrive/Masaüstü/HC_Restaurant/HC_Restaurant/HC.Presentation/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-owv939ng31

@@ -1,0 +1,69 @@
+﻿using AutoMapper;
+using Hc.Application.Models.VM;
+using HC.Application.Service.Interface;
+using HC.Domain.Concrete;
+using HC.Domain.Enums;
+using HC.Domain.UnitOfWork;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace HC.Application.Service.Concrete
+{
+    public class OrderService : IOrderService
+    {
+        private readonly IUnitOfWork _unitOfWork;
+        private readonly IMapper _mapper;
+
+        public OrderService(IUnitOfWork unitOfWork, IMapper mapper)
+        {
+            _unitOfWork = unitOfWork;
+            _mapper = mapper;
+        }
+
+
+
+        public async Task<string> Create(Order model)
+        {
+            try
+            {
+                //var order = _mapper.Map<Order>(model);
+
+                await _unitOfWork.OrderRepository.Add(model);
+
+                return "Order complated!";
+            }
+            catch (Exception ex)
+            {
+                return ex.Message;
+            }
+        }
+
+        public async Task<OrderVM> GetById(Guid id)
+        {
+            var result = await _unitOfWork.OrderRepository.GetById(id);
+
+            var order = _mapper.Map<OrderVM>(result);
+            return order;
+        }
+
+        public async Task<List<OrderVM>> GetOrders()
+        {
+            var orderList = await _unitOfWork.OrderDetailRepository.GetFilteredFirstOrDefaults(selector: x => new OrderVM
+            {
+                OrderID = x.OrderID,
+                EmployeeName = x.Order.Employee.FirstName + " " + x.Order.Employee.LastName,
+                ProductName = x.Product.ProductName,
+                UserName = x.Order.AppUser.UserName,
+                UnitPrice = x.UnitPrice,
+                Quantity = x.Quantity,
+            },
+            expression: x => x.Status != Status.None
+            );
+
+            return orderList;
+        }
+    }
+}
